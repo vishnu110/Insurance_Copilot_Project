@@ -1,0 +1,40 @@
+[
+  {
+    "query": "I am 32 diabetic suggest insurance",
+    "expected_keywords": [
+      "Diabetes-friendly Health Insurance",
+      "Term Life Insurance"
+    ]
+  },
+
+  {
+    "query": "Compare health insurance plans",
+    "expected_keywords": [
+      "HDFC Ergo",
+      "Niva Bupa"
+    ]
+  },
+
+  {
+    "query": "Estimate premium for 1Cr coverage age 45 smoker diabetic",
+    "expected_keywords": [
+      "21840"
+    ]
+  },
+
+  {
+    "query": "I am married with 2 children earning 20L",
+    "expected_keywords": [
+      "Family Health Insurance",
+      "Critical Illness Rider"
+    ]
+  },
+
+  {
+    "query": "I am a cancer patient with 10 dependents",
+    "expected_keywords": [
+      "Critical Illness Insurance",
+      "Group Insurance Plan"
+    ]
+  }
+]
