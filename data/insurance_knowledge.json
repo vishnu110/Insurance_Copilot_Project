@@ -1,0 +1,36 @@
+[
+  {
+    "id": "term_insurance",
+    "category": "life_insurance",
+    "title": "Term Insurance Basics",
+    "content": "Term insurance provides life coverage for a fixed duration and pays a death benefit to nominees if the insured person passes away during the policy term."
+  },
+
+  {
+    "id": "health_insurance",
+    "category": "health_insurance",
+    "title": "Health Insurance Coverage",
+    "content": "Health insurance covers hospitalization expenses, surgeries, medical treatments, and pre and post hospitalization costs depending on policy terms."
+  },
+
+  {
+    "id": "smoker_premium",
+    "category": "premium_rules",
+    "title": "Smoker Premium Loading",
+    "content": "Insurance premiums are usually higher for smokers because smoking increases health risks and mortality probability."
+  },
+
+  {
+    "id": "claim_settlement",
+    "category": "claims",
+    "title": "Claim Settlement Ratio",
+    "content": "Claim settlement ratio represents the percentage of insurance claims successfully settled by an insurance company."
+  },
+
+  {
+    "id": "critical_illness",
+    "category": "health_insurance",
+    "title": "Critical Illness Riders",
+    "content": "Critical illness riders provide additional payout if the insured is diagnosed with severe illnesses such as cancer, heart disease, or stroke."
+  }
+]

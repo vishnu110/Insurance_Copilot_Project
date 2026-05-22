@@ -1,0 +1,61 @@
+[
+  {
+    "name": "HDFC Ergo Optima Secure",
+    "type": "health",
+    "premium": 16800,
+    "claim_settlement_ratio": 95,
+    "waiting_period": 30,
+    "coverage": 1000000,
+    "co_pay": false,
+    "riders": ["Critical Illness", "Maternity"],
+    "recommended_for": ["family", "young_adults"]
+  },
+
+  {
+    "name": "Star Health Family Optima",
+    "type": "health",
+    "premium": 18400,
+    "claim_settlement_ratio": 88,
+    "waiting_period": 30,
+    "coverage": 1000000,
+    "co_pay": true,
+    "riders": ["Maternity"],
+    "recommended_for": ["senior_citizens", "family"]
+  },
+
+  {
+    "name": "Niva Bupa ReAssure",
+    "type": "health",
+    "premium": 21000,
+    "claim_settlement_ratio": 91,
+    "waiting_period": 30,
+    "coverage": 1500000,
+    "co_pay": false,
+    "riders": ["Critical Illness"],
+    "recommended_for": ["diabetic", "family"]
+  },
+
+  {
+    "name": "ICICI iProtect",
+    "type": "term",
+    "premium": 6200,
+    "claim_settlement_ratio": 97,
+    "waiting_period": 0,
+    "coverage": 5000000,
+    "co_pay": false,
+    "riders": ["Critical Illness"],
+    "recommended_for": ["young_adults", "family"]
+  },
+
+  {
+    "name": "Max Life Smart Secure",
+    "type": "term",
+    "premium": 6800,
+    "claim_settlement_ratio": 98,
+    "waiting_period": 0,
+    "coverage": 5000000,
+    "co_pay": false,
+    "riders": ["Waiver of Premium"],
+    "recommended_for": ["high_income"]
+  }
+]
